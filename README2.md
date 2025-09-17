@@ -1,2 +1,2 @@
-# UPLOADED IMAGES OF SOURCE DATA & TARGET DATA(INCULDING SQL DATABASE)
+# UPLOADED IMAGES OF SOURCE DATA & TARGET DATA(INCLUDING SQL DATABASE)
 ![alt text](pieChartGoldYouTubeReport.jpg) ![alt text](Reportpreview.jpg) ![alt text](SementicModelinFabric.jpg) ![alt text](Silver_Layer_Data.jpg) ![alt text](TargetSQLDB.jpg) ![alt text](Bronze_Layer_Data.jpg) ![alt text](Copy_Sink_TargetSQLDB.jpg) ![alt text](Copy_Source.jpg) ![alt text](Gold_Layer_Data.jpg) ![alt text](goldCleaningFabric.jpg)
