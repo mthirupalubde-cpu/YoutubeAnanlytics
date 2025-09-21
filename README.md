@@ -4,7 +4,8 @@ This project demonstrates an end-to-end data engineering pipeline using YouTube 
 Data is ingested from YouTube API, processed with Medallion Architecture (Bronze → Silver → Gold) in Databricks, and finally visualized in Fabric Power BI reports.
 
 
-![alt text](Project_Architecture-1.png)
+<img width="1632" height="640" alt="Project_Architecture" src="https://github.com/user-attachments/assets/d62ddfc2-c700-4226-aac1-1b47c82ef9ac" />
+
 
 🔹 Data Ingestion
 
