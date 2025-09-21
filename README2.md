@@ -1,4 +1,3 @@
 # UPLOADED IMAGES OF SOURCE DATA & TARGET DATA(INCLUDING SQL DATABASE)
 
-
-![alt text](pieChartGoldYouTubeReport.jpg) ![alt text](Reportpreview.jpg) ![alt text](SementicModelinFabric.jpg) ![alt text](Silver_Layer_Data.jpg) ![alt text](TargetSQLDB.jpg) ![alt text](Bronze_Layer_Data.jpg) ![alt text](Copy_Sink_TargetSQLDB.jpg) ![alt text](Copy_Source.jpg) ![alt text](Gold_Layer_Data.jpg) ![alt text](goldCleaningFabric.jpg)
+![Reportpreview](https://github.com/user-attachments/assets/80abdd62-0b3f-4bc8-99bf-b2dea7f44694)
